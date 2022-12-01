@@ -1,5 +1,7 @@
 # Frontend Mentor - Order summary card
 
+GITHUB PAGES: https://stephaniemarcondes.github.io/Order-summary-component/
+
 ![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
